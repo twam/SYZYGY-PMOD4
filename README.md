@@ -4,6 +4,11 @@ SYZYGY-PMOD4
 Board for adapting a [SYZYGY](https://syzygyfpga.io) Standard compatible port to four [Pmod™](https://digilent.com/reference/pmod/) compatible ports.
 It is based on [SZG-PMOD4](https://opalkelly.com/products/szg-pmod4/) by [Opal Kelly](https://opalkelly.com).
 
+### Images
+
+![Top](Images/top.jpg)
+![Bottom](Images/bottom.jpg)
+
 ### Firmware
 
 The board is compatible with the [avr-dna-fw](https://github.com/SYZYGYfpga/avr-dna-fw) reference firmware.
